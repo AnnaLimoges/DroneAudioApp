@@ -1,0 +1,59 @@
+{
+    "microphones": {
+        "channel_1": {
+            "mic_number": 1.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "channel_2": {
+            "mic_number": 2.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "channel_3": {
+            "mic_number": 3.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "channel_4": {
+            "mic_number": 4.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "channel_5": {
+            "mic_number": 5.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "channel_6": {
+            "mic_number": 6.0,
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "metadata": {
+        "location": "Home",
+        "operator": "Anna",
+        "drone_model": "None",
+        "notes": "This is a test. Microphpone information is not accurate.",
+        "timestamp": "2025-02-08T17:03:43.492292"
+    }
+}

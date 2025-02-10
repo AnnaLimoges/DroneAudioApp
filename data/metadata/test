@@ -1,0 +1,27 @@
+{
+    "microphones": {
+        "channel_1": {
+            "mic_number": 1.0,
+            "location": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "channel_2": {
+            "mic_number": 2.0,
+            "location": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            }
+        }
+    },
+    "metadata": {
+        "location": "Computer Cluster",
+        "operator": "Anna",
+        "drone_model": "None",
+        "notes": "This is a test",
+        "timestamp": "2025-02-06T14:01:20.721910"
+    }
+}
